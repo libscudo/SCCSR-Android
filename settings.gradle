@@ -1,0 +1,2 @@
+include ':libSCCSRHelper'
+rootProject.name='SCCSRHelper'
